@@ -1,0 +1,16 @@
+certifi==2020.12.5
+chardet==4.0.0
+Deprecated==1.2.12
+dimod==0.9.14
+dwave-neal==0.5.7
+idna==2.10
+jij-cimod==1.0.5
+jijmodeling==0.6.7
+numpy==1.19.5
+openjij==0.1.1
+pyqubo==1.0.10
+requests==2.25.1
+scipy==1.6.2
+six==1.15.0
+urllib3==1.26.4
+wrapt==1.12.1
